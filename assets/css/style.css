@@ -1520,3 +1520,11 @@ section {
 #footer .credits a:hover {
   color: #009961;
 }
+.aboutimg{
+  height: 300px;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+}
